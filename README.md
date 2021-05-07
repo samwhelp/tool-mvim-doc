@@ -15,7 +15,7 @@
 
 | en_us | zh_tw |
 | --- | --- |
-| [Plugin](https://samwhelp.github.io/tool-mvim-doc/read/en_us/feature/plugin.html) | [擴充套件](https://samwhelp.github.io/tool-mvim-doc/read/zh_tw/feature/Plugin.html) |
+| [Plugin](https://samwhelp.github.io/tool-mvim-doc/read/en_us/feature/plugin.html) | [擴充套件](https://samwhelp.github.io/tool-mvim-doc/read/zh_tw/feature/plugin.html) |
 
 
 ## Keybind
