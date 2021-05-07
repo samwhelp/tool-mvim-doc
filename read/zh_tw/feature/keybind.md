@@ -15,6 +15,13 @@ grand_parent: zh_tw
 * [按鍵綁定](https://samwhelp.github.io/tool-svim-doc/read/zh_tw/feature/keybind.html)
 
 
+## NERDTree
+
+| Key | Map | Description |
+| --- | --- | --- |
+| `,t` | [:NERDTreeToggle&lt;CR&gt;](https://github.com/preservim/nerdtree#how-can-i-map-a-specific-key-or-shortcut-to-open-nerdtree) | Toggle NERDTree |
+
+
 ## Lf
 
 | Key | Map | Description |
