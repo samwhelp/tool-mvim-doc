@@ -28,3 +28,10 @@ grand_parent: en_us
 | --- | --- | --- |
 | `,f` | [:Lf&lt;CR&gt;](https://github.com/ptzz/lf.vim/blob/master/plugin/lf.vim#L80) | Open current file by default |
 | `<Space>el` | [:Lf&lt;CR&gt;](https://github.com/ptzz/lf.vim/blob/master/plugin/lf.vim#L80) | Open current file by default |
+
+
+## Ranger
+
+| Key | Map | Description |
+| --- | --- | --- |
+| `<Space>er` | [:Ranger&lt;CR&gt;](https://github.com/francoiscabrol/ranger.vim/blob/master/plugin/ranger.vim#L103) | Open current file by default |
