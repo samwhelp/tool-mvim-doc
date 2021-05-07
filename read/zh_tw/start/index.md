@@ -1,6 +1,6 @@
 ---
-title: 特色
-nav_order: 2020
+title: 開始
+nav_order: 2010
 has_children: true
 parent: zh_tw
 ---
