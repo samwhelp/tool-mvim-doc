@@ -51,4 +51,4 @@ grand_parent: zh_tw
 | --- | --- |
 | liuchengxu / [vim-which-key](https://github.com/liuchengxu/vim-which-key) | |
 | liuchengxu / [eleline.vim](https://github.com/liuchengxu/eleline.vim) | |
-| Ntpeters / [vim-better-whitespace](https://github.com/Ntpeters/vim-better-whitespace) | |
+| ntpeters / [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) | |
